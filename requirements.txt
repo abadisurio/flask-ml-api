@@ -28,9 +28,6 @@ Keras-Applications
 Keras-Preprocessing
 Markdown
 MarkupSafe
-mkl-fft
-mkl-random
-mkl-service
 numpy
 oauthlib
 olefile
